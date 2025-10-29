@@ -1,0 +1,7 @@
+output/
+results/
+*.xml
+*.html
+allure-results/
+allure-report/
+
